@@ -1,0 +1,23 @@
+MAIN GREEN: #006241
+LIGHT GREEN: #d4e9e2
+DARK GREEN: #1e3932
+
+LIGHT GRAY: #f2f0eb
+
+links:
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76029.jpg
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76412.jpg
+
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76030.jpg
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76031.jpg
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76033.png
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76034.jpg
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-75418.jpg
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76299.jpg
+
+https://content-prod-live.cert.starbucks.com/binary/v2/asset/137-76277.png
